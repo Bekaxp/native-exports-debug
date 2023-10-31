@@ -2,13 +2,9 @@
   "name": "@dp/mypackage",
   "version": "0.0.1",
   "description": "TestPackage",
-  "author": "Swiss Life AG",
+  "author": "Domen Persolja",
   "license": "UNLICENSED",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "https://swisslife@dev.azure.com/swisslife/F2C/_git/Fusion-UI"
-  },
   "exports": {
     "./native": {
       "import": "./lib/native/index.mjs",
